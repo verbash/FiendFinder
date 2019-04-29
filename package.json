@@ -1,0 +1,25 @@
+{
+  "name": "fiendfinder",
+  "version": "1.0.0",
+  "description": "A dating app for monsters and other creatures that go bump in the night",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verbash/FiendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verbash/FiendFinder/issues"
+  },
+  "homepage": "https://github.com/verbash/FiendFinder#readme"
+}
